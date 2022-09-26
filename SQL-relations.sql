@@ -14,11 +14,11 @@
 
 --insert into Employees([Name], Surname, Age, Salary, Position, IsDeleted)
 --values
---('Cavid','Bashirov', 29, 6000, 'Professor', '0'),
---('Emil',  'Abdullayev',20, 3900, 'Deputy', '0'),
---('Orkhan', 'Akberov', 26, 1900, 'Reception', '0'),
---('Fidan', 'Mardanli', 18, 1700, 'Assistant', '0'),
---('Said', 'Nuraliyev', 33, 3500, 'Manager', '0')
+--('Cavid','Bashirov', 29, 5000, 'Professor', '0'),
+--('Narmin',  'Mammadova',28, 4000, 'Dean', '0'),
+--('Fidan', 'Mardanli', 17, 2000, 'Manager', '0'),
+--('Seadet', 'Mammadova', 25, 3000, 'Rector', '0'),
+--('Simara', 'Aliyeva', 27, 2700, 'Worker', '0')
 
 --alter table Employees
 --add Id int foreign key references Countries(Id)
