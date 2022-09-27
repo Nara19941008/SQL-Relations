@@ -17,7 +17,7 @@
 --('Cavid','Bashirov', 29, 5000, 'Professor', '0'),
 --('Narmin',  'Mammadova',28, 4000, 'Dean', '0'),
 --('Fidan', 'Mardanli', 17, 2000, 'Manager', '0'),
---('Seadet', 'Mammadova', 25, 3000, 'Rector', '0'),
+--('Seadet', 'Mammadova', 25, 3000, 'Reception', '0'),
 --('Simara', 'Aliyeva', 27, 2700, 'Worker', '0')
 
 --alter table Employees
